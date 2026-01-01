@@ -1,4 +1,5 @@
 # RVU-demo
 This is my first github repository. 
-Author - Shreeya K.S
+<br>
+Author - Shreeya Koppa Santosh
 
